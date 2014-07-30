@@ -505,7 +505,7 @@ namespace Yaf
          */
         public function getApplication(){}
 
-        /*
+        /**
          * 返回路由器实例
          *
          * @return Router
